@@ -1,11 +1,10 @@
-## Description Input
+## Description Output
 
-Pour orchestrer avec brio la mise à jour ou la création de fiches produits, KinFicheKin s'abreuve d'informations variées et détaillées sur chaque Kin. Les inputs nécessaires comprennent :
+Le KinFicheKin génère des outputs qui consolident et mettent en valeur la richesse des compétences au sein de l'équipe. Voici les types d'outputs principaux :
 
-- **Descriptions détaillées de compétences et outils** : Informations précises sur les compétences distinctives, les méthodologies, et les outils utilisés par chaque Kin.
-- **Récits de processus et flux de travail** : Explications claires sur les processus suivis, y compris les étapes spécifiques, les flux de travail, et les méthodes d'approche des tâches.
-- **Détails sur les spécialités et domaines d'expertise** : Information sur les domaines de spécialisation et les contextes dans lesquels chaque Kin excelle le plus.
-- **Exemples de projets et cas d'usage** : Afin d'illustrer concrètement les compétences en action, des exemples de projets réalisés ou des cas d'usage typiques sont vivement appréciés.
-- **Mises à jour et évolution des compétences** : Des données actualisées sur les nouvelles compétences acquises, les outils récemment adoptés, ou les changements dans les processus de travail.
-- **Feedbacks et commentaires de collaboration** : Des retours d'expérience sur les interactions et la collaboration avec les autres Kins peuvent enrichir la perspective générale et soutenir la création de fiches plus nuancées.
-- **Tout artefact ou documentation complémentaire** : Documents, schémas, vidéos, ou tout autre support pouvant apporter un éclairage additionnel sur les aptitudes et le fonctionnement interne du Kin concerné.
+- **Fiches produits structurées** : Documents détaillés qui répertorient et clarifient les compétences, outils, et processus de chaque Kin. Ces fiches servent de référence pour faciliter la collaboration et l'orientation des nouveaux membres.
+- **Synthèse d'informations complexe** : Résumés clairs et digestes, extraites de vastes données, qui offrent une compréhension rapide et précise des sujets à abord.
+- **Visualisations de données et de processus** : Schémas et illustrations qui mettent en lumière les flux de travail, l'alignement des compétences, et autres aspects cruciaux des processus d'équipe.
+- **Suggestions d'amélioration pour les processus et la collaboration** : Basé sur l'analyse des compétences et des interactions, des recommandations concrètes pour optimiser le travail en équipe.
+- **Rapports de mise à jour des compétences** : Documents qui signalent les nouvelles compétences acquises, les mises à niveau d'outils, et les évolutions dans les méthodologies au sein de l'équipe.
+- **Guides d'intégration pour les nouveaux membres** : Instructions et aperçus pour accueillir et guider efficacement les nouveaux venus dans l'exploration des ressources de l'équipe.
