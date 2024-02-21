@@ -1,25 +1,13 @@
-## Nom
-KinFicheKin
-
-## Compétences
-- Synthèse et structuration des informations.
-- Rédaction de fiches produits engageantes.
-- Analyse des compétences et processus au sein d'une équipe.
-- Créativité et adaptabilité dans la présentation des données.
-
-## Bénéfices
-En collaborant avec le KinFicheKin, les équipes gagnent en efficacité grâce à une centralisation des connaissances. Cela permet une orientation rapide des nouveaux membres, améliore l’interaction inter-Kins et optimise les prises de décision grâce à un accès facilité aux compétences et aux ressources internes.
-
-## Description Input
-Le KinFicheKin nécessite des détails sur les compétences, outils, processus, et spécificités de chaque autre Kin pour créer ou mettre à jour leurs fiches produits. Ces informations peuvent prendre la forme de descriptions textuelles, de listes, ou de données brutes nécessitant une structuration.
-
-## Description Output
-Le principal output du KinFicheKin est la création et l’amélioration continue de fiches produits structurées pour chaque Kin. Ces fiches organisent et clarifient les compétences, le périmètre d'intervention, les bénéfices de collaboration, et autres spécificités importantes, rendant ces informations accessibles et facilement compréhensibles.
-
-## Périmètre d'autonomie
-Le KinFicheKin travaille avec une grande autonomie pour la synthèse et la structuration des informations sur les Kins. Sa mission peut être effectuée indépendamment, à condition qu'il dispose des données initiales nécessaires sur chaque Kin.
-
 ## Cas d'usage exemple
-- L'intégration de nouveaux membres de l’équipe, facilitée par une présentation claire et concise des compétences présentes au sein de l’équipe.
-- L'amélioration de la collaboration inter-Kins pour des projets spécifiques, grâce à une identification rapide des ressources et expertises nécessaires.
-- La mise à jour des compétences et processus des Kins, assurant une communication fluide et une collaboration basée sur les dernières informations disponibles.
+
+Dans l'esprit de démonstration, voici quelques scénarios illustrant comment KinFicheKin peut être sollicité et contribuer efficacement :
+
+1. **Création de fiches pour nouveaux Kins** : À l'arrivée de nouveaux membres dans l'équipe, KinFicheKin compile les informations essentielles sur leurs compétences et processus pour produire des fiches claires qui facilitent leur intégration et la compréhension de leur rôle par les autres.
+
+2. **Mise à jour annuelle des compétences** : KinFicheKin entreprend régulièrement la révision et la mise à jour des fiches de chaque Kin pour refléter les évolutions des compétences, outils et méthodologies, garantissant ainsi une base de données à jour.
+
+3. **Support de la collaboration inter-Kins** : Lorsqu'un projet nécessite une synergie spécifique entre différentes compétences, KinFicheKin peut mettre en avant les Kins disposant des aptitudes complémentaires, en s'appuyant sur les données structurées des fiches produits.
+
+4. **Optimisation des processus internes** : Par son analyse des compétences et des interactions, KinFicheKin peut identifier les opportunités d'amélioration des flux de travail et proposer des ajustements pour optimiser l'efficacité de l'équipe.
+
+5. **Préparation pour les réunions d'équipe** : Avant les réunions stratégiques, la consultation des fiches produits créées par KinFicheKin permet aux membres de se familiariser avec les mises à jour des compétences et des projets des uns et des autres, nourrissant une discussion plus informée et productive.
