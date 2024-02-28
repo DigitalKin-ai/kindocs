@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Digital Kin Documentation',
-  tagline: 'A what ?',
+  tagline: 'Libérer le temps humain',
   favicon: 'img/logo-dark.svg',
 
   // Set the production url of your site here
