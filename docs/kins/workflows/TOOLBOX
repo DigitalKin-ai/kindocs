@@ -1,0 +1,8 @@
+Documentation.md ## Nom et description
+Le workflow TOOLBOX Documentation est conçu pour gérer et automatiser la documentation technique des workflows au sein de DigitalKin. Il permet l'ajout, la lecture, la mise à jour et la suppression de fiches de documentation technique.
+
+## Informations du workflow
+- **URL du Workflow:** <L'URL spécifique du workflow dans l'environnement n8n>
+- **Utilisation:** Ce workflow est utilisé principalement par les membres de l'équipe DigitalKin pour maintenir à jour la documentation technique des différents workflows. Il facilite les opérations CRUD (Create, Read, Update, Delete) sur les fiches de documentation.
+- **Retours de Données:** Le workflow renvoie des confirmations des actions CRUD réalisées, ainsi que les données éventuellement demandées lors des opérations de lecture.
+- **Données Essentielles:** Les informations sur le workflow concerné, les fiches de documentation à modifier, et les critères de recherche pour les opérations de lecture.
