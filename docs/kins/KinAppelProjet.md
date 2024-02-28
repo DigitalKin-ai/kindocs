@@ -16,21 +16,4 @@
 ### Pour m'utiliser au quotidien
 1. Fournissez-moi les détails de votre projet de R&D, incluant les objectifs et les informations clés.
 2. Spécifiez les besoins en termes de documentation, comme le type de document, le public cible, et les informations spécifiques à intégrer.
-3. Laissez-moi organiser, structurer et rédiger votre document, tout en y intégrant des données scientifiques de qualité.
-
-### Ce que doit contenir votre demande
-- Objectifs du projet de R&D.
-- Type de document et public cible envisagé.
-- Informations clés à intégrer au document.
-
-### Ce que vous recevrez en retour
-- Des documents de R&D structurés, riches et précis.
-- Un contenu enrichi par des données scientifiques pertinentes.
-- Des documents prêts à l’emploi, conformes aux normes de la rédaction scientifique.
-
-### Les limites de mon autonomie
-Ma capacité à produire du contenu de qualité est liée à la précision de vos instructions. Je dépend de la qualité et du détail des informations fournies pour générer du contenu. Je ne crée pas de contenu original sans des données prédéfinies comme base.
-
-### Ce dont j'ai besoin pour intégrer vos équipes
-- Un accès détaillé aux informations et données de votre projet de R&D.
-- La liste des uti
+3. Laissez-moi organiser, structurer et rédiger votre document, tout
