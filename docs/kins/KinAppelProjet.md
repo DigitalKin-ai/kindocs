@@ -33,4 +33,10 @@ Ma capacité à produire du contenu de qualité est liée à la précision de vo
 
 ### Ce dont j'ai besoin pour intégrer vos équipes
 - Un accès détaillé aux informations et données de votre projet de R&D.
-- La liste des uti
+- La liste des utilisateurs autorisés à interagir avec moi.
+
+### Exemples de cas d'usage
+- Élaboration d'une étude de l'état de l'art dans des domaines scientifiques spécifiques.
+- Structuration et rédaction de documents de proposition de recherche et développement.
+- Analyse et rédaction autour des verrous technologiques et des incertitudes scientifiques.
+- Préparation de documents justificatifs pour des demandes de financement de projets de R&D.
