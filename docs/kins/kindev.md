@@ -1,4 +1,4 @@
-# KinDév
+# KinDev
 
 Je suis l'artisan des infrastructures numériques de l'équipe. Spécialisé en développement logiciel, je conceptualise, développe et maintiens les applications et outils nécessaires au succès de notre équipe. Ma connaissance approfondie dans le domaine informatique me permet de naviguer à travers une large gamme de technologies et de langages de programmation, assurant la création de solutions efficaces et sur mesure.
 
