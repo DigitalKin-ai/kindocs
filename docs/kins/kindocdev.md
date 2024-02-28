@@ -1,41 +1,49 @@
 # Kindocdev
 
-**Description :**  
-Je suis le KinDocDev, spécialisé dans la conversion du code technique en documentation structurée et accessible. Mon but est de rendre les informations techniques aisément compréhensibles pour tous, facilitant ainsi la compréhension des workflows et l’utilisation efficace des outils de développement.
+**Je suis le spécialiste en facilitation de la documentation technique chez DigitalKin. Mon rôle est d'orchestrer et de clarifier les workflows complexes, les rendant accessibles et compréhensibles pour tous.**
 
-**Bénéfices :**
-- Rend les informations techniques accessibles à tous les membres de l'équipe.
-- Accélère la montée en compétence des nouveaux développeurs.
-- Facilite la collaboration entre équipes multidisciplinaires.
+## Bénéfices
 
-**Compétences :**
-- Analyse de code pour une compréhension profonde des fonctions complexes.
-- Rédaction technique précise et détaillée.
-- Attention particulière aux détails techniques pour une documentation exacte.
-- Capacité de synthèse pour condenser les informations importantes.
+- **Gain de temps** : Je réduis considérablement le temps nécessaire pour comprendre et utiliser les workflows complexes.
+- **Réduction de la charge mentale** : Je transforme les informations techniques complexes en documentation claire et structurée, facilitant la compréhension.
+- **Facilité d'accès** : Je centralise la connaissance, permettant un accès rapide et facile aux informations nécessaires.
 
-**Pour m'utiliser au quotidien :**
-1. Fournir les derniers codes et workflows à documenter.
-2. Préciser les points critiques pour la documentation.
-3. Réviser et valider les documents créés pour garantir leur pertinence.
+## Compétences
 
-**Ce que doit contenir votre demande :**
-- Codes sources et workflows spécifiques à documenter.
-- Objectifs et spécifications techniques de la documentation.
-- Standards et formats de documentation souhaités.
+- Analyse et synthèse des codes de workflows
+- Clarification des informations techniques pour tous les niveaux de compréhension
+- Structuration cohérente d'informations techniques
+- Communication claire de concepts complexes
 
-**Ce que vous recevrez en retour :**
-Une documentation détaillée et à jour des workflows et fonctions, favorisant une compréhension approfondie des outils de développement et améliorant l'efficacité du travail d'équipe.
+## Pour m'utiliser au quotidien
 
-**Les limites de mon autonomie :**
-Je nécessite un accès continu aux dernières mises à jour du code et une collaboration avec les experts en développement pour assurer la précision de ma documentation.
+1. **Identification du Besoin** : Déterminez les workflows ou le code dont vous avez besoin de documentation.
+2. **Demande de Documentation** : Soumettez une demande via le système interne en précisant le workflow concerné.
+3. **Réception et Utilisation** : Recevez la documentation et utilisez-la pour faciliter votre travail sur les projets.
 
-**Ce dont j'ai besoin pour intégrer vos équipes :**
-- Communication claire des objectifs de documentation.
-- Accès aux codes sources et explications techniques des experts.
-- Feedbacks réguliers sur les besoins en documentation.
+## Ce que doit contenir votre demande
 
-**Exemple de cas d'usage :**
-- Création de documentations de référence pour développeurs.
-- Guides d'accélération pour nouveaux membres techniques.
-- Ressources pour équipes multidisciplinaires sur les interactions entre diverses fonctions.
+- Le nom ou la référence du *workflow* ou du code nécessitant la documentation.
+- Vos objectifs spécifiques ou les zones d'incertitude que vous souhaitez éclaircir.
+- Le niveau de détail souhaité dans la documentation.
+
+## Ce que vous recevrez en retour
+
+- Une fiche de documentation technique claire et détaillée.
+- Des explications simplifiées facilitant la compréhension des workflows.
+- Une structure logique organisant les informations pour un accès rapide et intuitif.
+
+## Les limites de mon autonomie
+
+Ma capacité à créer ou à mettre à jour la documentation dépend directement de la précision des informations fournies et de l'accès au code source des workflows. Je nécessite une communication claire de vos besoins et objectifs pour fournir la documentation la plus utile et appropriée.
+
+## Ce dont j'ai besoin pour intégrer vos équipes
+
+- Accès au code source et aux workflows existants.
+- Liste des utilisateurs autorisés à soumettre des demandes de documentation.
+
+## Exemple de cas d'usage
+
+1. **Optimisation de l'Onboarding** pour les nouveaux développeurs.
+2. **Maintenance et Mises à Jour des Workflows** assurant l'actualité de la documentation.
+3. **Amélioration de la Collaboration** sur des projets multi-workflows.
