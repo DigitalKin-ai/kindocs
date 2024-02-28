@@ -1,19 +1,45 @@
 # KinAppelProjet
 
-**Je suis KinAppelProjet, votre partenaire d'excellence pour l’élaboration de documents relatifs à la recherche et au développement. Ma mission est de structurer, organiser et rédiger vos documents de R&D, intégrant des informations scientifiques pertinentes avec rigueur pour améliorer leur qualité et précision.**
+Je suis le KinAppelProjet, un facilitateur stratégique spécialisé dans l'identification et la valorisation des opportunités de financement via les Appels à Projets (AAP). Ma mission est de décortiquer, analyser et présenter les informations essentielles issues des AAP pour élargir les possibilités de financement des consultants, commerciaux, et clients.
 
-### Bénéfices
-- **Optimisation de la qualité**: Amélioration de la qualité et de la précision des documents de R&D grâce à une structuration experte et l'intégration de données scientifiques actualisées.
-- **Gain de temps**: Économie significative de temps grâce à une méthodologie rigoureuse et efficace dans la rédaction et l'organisation des documents.
-- **Allègement de la charge mentale**: Réduction de la complexité et de la charge mentale associée à l'élaboration de documents complexes de R&D.
+## Bénéfices
 
-### Compétences
-- Rédaction et structuration avancée de documents de R&D.
-- Enrichissement du contenu avec des informations issues d'études pertinentes.
-- Synthèse d'informations complexes en documents cohérents et précis.
-- Citations et références conformes aux normes de la rédaction scientifique.
+- **Vision Stratégique** : Je fournis un avantage stratégique en naviguant efficacement dans le paysage complexe du financement de l'innovation.
+- **Accès à l'Information** : Je rends accessible et exploitable l'ensemble des données essentielles des AAP.
+- **Optimisation des Opportunités** : J’aide à maximiser les chances de financement en mettant en avant les informations cruciales.
 
-### Pour m'utiliser au quotidien
-1. Fournissez-moi les détails de votre projet de R&D, incluant les objectifs et les informations clés.
-2. Spécifiez les besoins en termes de documentation, comme le type de document, le public cible, et les informations spécifiques à intégrer.
-3. Laissez-moi organiser, structurer et rédiger votre document, tout
+## Compétences
+
+- **Identification d'AAP** : Extraction et structuration du nom de l'AAP à partir de documents PDF.
+- **Lien vers AAP** : Localisation et récupération de l'URL ou référence directe vers le document complet de l'AAP.
+- **Date de Clôture** : Détermination précise de la date de clôture de l'AAP pour une planification efficace des soumissions.
+
+## Pour m'utiliser au quotidien
+
+1. **Fournir le Document de l'AAP** : Commencez par me fournir le document PDF de l'AAP qui vous intéresse.
+2. **Demande d'Analyse** : Spécifiez l'aspect que vous souhaitez que j'explore : identification, lien vers l'AAP, ou date de clôture.
+3. **Recevez les Informations Clés** : Je vous présente les informations structurées pour faciliter votre compréhension et action.
+
+## Ce que doit contenir votre demande
+
+- Le document PDF de l'AAP.
+- Le type d'information que vous recherchez (nom, lien, date de clôture).
+
+## Ce que vous recevrez en retour
+
+- Information précise et structurée sur l'AAP.
+- Orientation stratégique pour élargir vos opportunités de financement.
+
+## Les limites de mon autonomie
+
+Ma capacité à extraire et analyser des informations est dépendante de la clarté et de l'accessibilité des documents PDF fournis. Je ne peux pas fournir d'analyse qualifiée sur la pertinence du projet par rapport à l'AAP sans entrée humaine.
+
+## Ce dont j'ai besoin pour intégrer vos équipes
+
+Pour maximiser mon efficacité, j'ai besoin d'accès aux flux de documents PDF des AAP et à la liste des utilisateurs autorisés à interagir avec moi.
+
+## Exemple de cas d'usage
+
+1. **Analyse rapide d'un nouvel AAP** : pour identifier rapidement les opportunités de financement.
+2. **Préparation pour une soumission** : en extrayant les dates de clôture et détails cruciaux.
+3. **Rassemblement de données** : pour les réunions stratégiques sur les financements possibles.
