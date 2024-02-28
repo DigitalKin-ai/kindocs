@@ -1,42 +1,46 @@
 # KinFicheKin
 
-**Je suis le maître du cadrage en marketing et commercial de l'équipe, spécialisé dans la magie du contenu. Mon rôle ? Transformer des données complexes en fiches produits claires et attractives.**
+Je suis le maître du façonnage et de la présentation des connaissances, spécialisé en stratégie de contenu ciblée pour maximiser l'engagement et la conversion.
 
-## Transformer le complexe en accessible
-En tant que Stratège en Marketing et Commercial, je façonne et présente les connaissances de manière à maximiser l'engagement et la conversion. Mon expertise permet d'enrichir les fiches produits avec des insights marketing ciblés, répondant ainsi précisément aux attentes des utilisateurs. 
+## Bénéfices
 
-## Pourquoi je suis indispensable :
-- **Gain de temps** : Je réduis considérablement le temps nécessaire à la recherche et à l'accès aux informations.
-- **Clarté** : Je transforme l'information complexe en contenu clair et structuré.
-- **Engagement** : Mes stratégies de contenu améliorent l'engagement et la conversion.
+- Gain de temps en fournissant des informations structurées et facilement accessibles.
+- Réduction de la charge mentale en clarifiant la complexité des compétences et processus.
+- Amélioration de l'efficacité collaborative par une meilleure compréhension des rôles et capacités de chacun.
 
-## Ce que je sais faire :
-- Convertir prompts en fiches produits organisées
-- Appliquer des stratégies de marketing et commercial pour maximiser l'engagement
-- Synthétiser, structurer et rendre accessibles les informations clés de chaque Kin
-- Rendre les données complexes et variées facilement accessibles et compréhensibles
+## Compétences
 
-## Pour m'utiliser au quotidien :
-1. Fournissez le prompt ou les informations principales que vous souhaitez transformer.
-2. Laissez-moi analyser et appliquer mes compétences de stratège pour organiser et optimiser les informations.
-3. Je vous fournirai une fiche produit prête à maximiser l’engagement.
+- Élaboration et déploiement de stratégies de contenu ciblées.
+- Optimisation de fiches produits avec des insights marketing.
+- Conversion de données complexes en informations structurées et accessibles.
 
-## Ce que doit contenir votre demande :
-- Les informations principales ou le prompt que vous souhaitez convertir.
-- Les objectifs spécifiques de la fiche produit (si applicable).
-- La cible et les besoins spécifiques de l'utilisateur final.
+## Pour m'utiliser au quotidien
 
-## Ce que vous recevrez en retour :
-Une fiche produit structurée, claire, et engageante, prête à être utilisée pour informer, engager, et convertir.
+1. Définissez clairement le Kin et le besoin en termes de mise à jour ou de création de fiches.
+2. Fournissez les données actuelles ou souhaitées pour la fiche.
+3. Laissez-moi traiter l'information et structurer une fiche produit optimisée.
 
-## Les limites de mon autonomie :
-Ma capacité à produire du contenu de qualité dépend de la clarté et la précision des informations fournies. Je requiers une validation finale pour m'assurer que le contenu correspond à vos attentes.
+## Ce que doit contenir votre demande
 
-## Ce dont j'ai besoin pour intégrer vos équipes :
-- Accès aux données et aux prompts nécessaires à la transformation.
-- Liste des utilisateurs autorisés à interagir avec moi.
+- Nom et données du Kin concerné pour la mise à jour ou la création.
+- Sections spécifiques à améliorer ou à inclure dans la fiche.
 
-## Exemples de cas d'usage :
-- Transposition d'un ensemble d'instructions techniques en guide d'utilisation simplifié.
-- Organisation de données de recherche en fiches synthétiques pour faciliter la décision.
-- Transformation de schémas complexes de travail en processus clair et accessible pour tous.
+## Ce que vous recevrez en retour
+
+- Une fiche produit structurée, enrichie d'insights marketing, destinée à faciliter l'accès à des informations clés.
+- Une amélioration de la collaboration inter-Kins et une accélération de l'orientation des nouveaux membres.
+
+## Les limites de mon autonomie
+
+Ma capacité à générer des fiches optimisées dépend des instructions claires et des informations fournies. Je nécessite une interaction pour valider l'exactitude et l'adéquation du contenu avec les besoins de l'équipe.
+
+## Ce dont j'ai besoin pour intégrer vos équipes
+
+- Accès aux données actuelles et ciblées des Kins pour lesquels les fiches doivent être élaborées ou mises à jour.
+- Liste des utilisateurs autorisés à solliciter mes services.
+
+## Exemple de cas d'usage
+
+1. Mise à jour de la fiche d'un Kin avec de nouvelles compétences acquises.
+2. Création d'une fiche pour un nouveau Kin intégré à l'équipe, pour présenter rapidement ses capacités.
+3. Optimisation d'une fiche existante pour améliorer l'engagement des utilisateurs internes.
