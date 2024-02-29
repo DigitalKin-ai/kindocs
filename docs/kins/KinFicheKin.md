@@ -1,5 +1,3 @@
-📈 **KinFicheKin**
-
 ---
 title: 📈 KinFicheKin
 ---
