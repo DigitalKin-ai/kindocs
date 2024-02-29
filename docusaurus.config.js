@@ -4,11 +4,11 @@
 // There are various equivalent ways to declare your Docusaurus config.
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
-import {themes as prismThemes} from 'prism-react-renderer';
+import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Digital Kin Documentation',
+  title: 'Documentation DigitalKin',
   tagline: 'Libérer le temps humain',
   favicon: 'img/logo-dark.svg',
 
@@ -79,10 +79,11 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Digital Kin Documentation',
+        title: 'Documentation DigitalKin',
         logo: {
-          alt: 'Digital Kin Logo',
+          alt: 'DigitalKin Logo',
           src: 'img/logo-dark.svg',
+          srcDark: 'img/logo-white.svg',
         },
         items: [
           {
@@ -91,7 +92,7 @@ const config = {
             position: 'left',
             label: 'Kin Academy',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          // { to: '/blog', label: 'Blog', position: 'left' },
           {
             href: 'https://github.com/DigitalKin-ai',
             label: 'GitHub',
@@ -107,7 +108,7 @@ const config = {
             items: [
               {
                 label: 'Kin Academy',
-                to: '/docs/intro',
+                to: '/docs/category/catalogue-de-kins',
               },
             ],
           },
