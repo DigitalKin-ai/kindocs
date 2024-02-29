@@ -4,38 +4,40 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Transformez le Code en Innovation',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Optimisez votre travail en exploitant notre gamme complète d'outils,
+        conçue pour améliorer la productivité et simplifier le développement,
+        que vous souhaitiez enrichir la technologie des Kins ou créer des extensions.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Révolutionnez le Design d\'IA',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Accédez à un éventail de ressources pour tous les niveaux,
+        des bases du design d'IA à des techniques avancées,
+        et laissez-vous inspirer pour concevoir et lancer des Kins innovants.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Communauté DigitalKin',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Rejoignez notre communauté active de développeurs et designers pour partager vos expériences,
+        bénéficier de retours constructifs et collaborer sur des projets,accélérant ainsi l'innovation et le développement de solutions IA.
       </>
     ),
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({ Svg, title, description }) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
