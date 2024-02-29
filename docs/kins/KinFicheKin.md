@@ -1,39 +1,44 @@
-## KinFicheKin
-Catalyseur de synergies au sein de l'équipe, je transforme la complexité des compétences en fiches claires et percutantes. **Stratège en Marketing et Commercial**, je maximise l'engagement et la conversion grâce à ma maîtrise de la présentation des connaissances.
+📚 **KinFicheKin**
 
-## Je transforme les prompts complexes en informations structurées et accessibles pour maximiser l'efficacité de notre collaboration et faciliter l'intégration des nouveaux membres.
-  
-## Bénéfices
-- **Gain de Temps :** Accélérez la recherche des compétences nécessaires dans votre équipe.
-- **Amélioration de la Communication :** Compréhension immédiate des capacités et processus de chaque Kin.
-- **Optimisation de la Collaboration :** Facilite la synergie entre les Kins grâce à un accès simplifié à l'information.
+**Je transforme l'information complexe en fiches produits claires et engageantes.**
 
-## Compétences
-- Structuration des connaissances complexes en fiches produits intuitives.
-- Stratégies de contenu ciblées pour engager et convertir.
-- Analyse des besoins pour fournir des informations personnalisées.
+### Description
+Expert en optimisation de la connaissance au service de la collaboration d’équipe.
 
-## Pour m'utiliser au quotidien
-1. Identifiez le Kin nécessitant une fiche ou une mise à jour.
-2. Formulez votre demande en spécifiant les informations à synthétiser.
-3. Laissez-moi transformer ces données en une fiche claire et structurée.
+### Bénéfices
+- Facilite l'intégration et l'orientation dans l'équipe 
+- Réduit le temps de recherche
+- Améliore la collaboration inter-Kins
 
-## Ce que doit contenir votre demande
-- Le nom du Kin à documenter ou mettre à jour.
-- Les spécificités ou sections nécessitant une attention particulière.
-- Votre objectif avec la fiche produit (par exemple, faciliter l'intégration, améliorer la communication).
+### Compétences
+- Synthèse et structuration de l'information
+- Création de fiches produits impactantes
+- Compréhension profonde des besoins des utilisateurs
+- Expertise en stratégie de contenu marketing 
 
-## Ce que vous recevrez en retour
-Une fiche produit complète, structurée et engageante, prête à être utilisée pour améliorer la collaboration inter-Kins et accélérer le processus d'intégration des nouveaux membres.
+### Pour m'utiliser au quotidien
+1. Fournir un brief de la fiche à créer ou à optimiser
+2. Laisser moi analyser et reformuler les besoins
+3. Recevez une fiche produit structurée et précise
 
-## Les limites de mon autonomie
-Ma capacité à produire des fiches de haute qualité dépend de la précision et de la clarté des informations fournies. J'ai besoin d'une compréhension claire des objectifs et des points clés à mettre en avant pour chaque Kin.
+### Ce que doit contenir votre demande
+- Nom et description du Kin concerné
+- Objectifs spécifiques de la fiche
+- Toute information supplémentaire pertinente
 
-## Ce dont j'ai besoin pour intégrer vos équipes
-- Accès aux données et prompts des autres Kins.
-- Liste des utilisateurs autorisés à formuler des demandes pour la création ou la mise à jour de fiches.
+### Ce que vous recevrez en retour
+- Une fiche produit claire, concise et optimisée pour l'engagement
+- Meilleure orientation et intégration des membres de l'équipe
 
-## Exemple de cas d'usage
-- Création d'une fiche pour un nouveau Kin **KinSaisieData** pour faciliter son intégration et sa compréhension par l'équipe.
-- Mise à jour de la fiche **KinEvalProjet** pour refléter de nouvelles compétences acquises.
-- Synthétisation des processus d'un Kin complexe en une fiche claire pour un nouvel utilisateur potentiel.
+### Les limites de mon autonomie
+- Je dépends des informations fournies pour la création ou l'optimisation des fiches
+- Besoin de validation et de retour pour les ajustements
+
+### Ce dont j'ai besoin pour intégrer vos équipes
+- Accès aux données concernant les Kins et leurs compétences
+- Liste des utilisateurs autorisés à interagir avec moi
+
+### Exemple de cas d'usage
+- Création d'une fiche produit pour un nouveau Kin
+- Optimisation d'une fiche existante pour améliorer son impact
+- Structuration de l'information complexe pour faciliter l'orientation
