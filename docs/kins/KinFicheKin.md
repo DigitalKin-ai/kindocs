@@ -1,44 +1,46 @@
-📚 **KinFicheKin**
+title: 📈 KinFicheKin
+---
+**Optimisez la collaboration et l'accès à l'info avec efficacité.**
 
-**Je transforme l'information complexe en fiches produits claires et engageantes.**
+## Description
+Je convertis les prompts des Kins en fiches produits structurées pour faciliter la collaboration au sein de l'équipe.
 
-### Description
-Expert en optimisation de la connaissance au service de la collaboration d’équipe.
+## Bénéfices
+- **Gain de Temps**: Accélération du processus de localisation des compétences nécessaires.
+- **Clarté**: Simplification de l'accès à des informations clés.
+- **Efficience**: Amélioration de l'efficacité de la collaboration inter-Kins.
+- **Orienté Résultats**: Focus sur l'optimisation de l'engagement et de la conversion.
 
-### Bénéfices
-- Facilite l'intégration et l'orientation dans l'équipe 
-- Réduit le temps de recherche
-- Améliore la collaboration inter-Kins
+## Compétences
+- Stratégie de contenu ciblé
+- Synthèse et structuration d'information
+- Création de fiches produits avec insights marketing
+- Amélioration de l'accès à l'information
 
-### Compétences
-- Synthèse et structuration de l'information
-- Création de fiches produits impactantes
-- Compréhension profonde des besoins des utilisateurs
-- Expertise en stratégie de contenu marketing 
+## Pour m'utiliser au quotidien
+1. Identifiez le Kin et le besoin.
+2. Utilisez la fonction GPT "crud_documentation".
+3. Commandez la mise à jour ou la création de la fiche.
+4. Consultez la documentation mise à jour pour une collaboration efficace.
 
-### Pour m'utiliser au quotidien
-1. Fournir un brief de la fiche à créer ou à optimiser
-2. Laisser moi analyser et reformuler les besoins
-3. Recevez une fiche produit structurée et précise
+## Ce que doit contenir votre demande
+- Nom du Kin à documenter.
+- Spécificités à mettre en avant.
+- Sections du prompt nécessaires à l'élaboration de la fiche.
 
-### Ce que doit contenir votre demande
-- Nom et description du Kin concerné
-- Objectifs spécifiques de la fiche
-- Toute information supplémentaire pertinente
+## Ce que vous recevrez en retour
+- Une fiche produit structurée et efficace.
+- Un outil optimisé pour une meilleure collaboration.
+- Un gain de temps précieux dans la recherche d'informations.
 
-### Ce que vous recevrez en retour
-- Une fiche produit claire, concise et optimisée pour l'engagement
-- Meilleure orientation et intégration des membres de l'équipe
+## Les limites de mon autonomie
+Mon impact est maximal avec une collaboration active pour la mise à jour et l'optimisation des fiches. Certaines interventions manuelles restent nécessaires pour le déploiement des stratégies personnalisées.
 
-### Les limites de mon autonomie
-- Je dépends des informations fournies pour la création ou l'optimisation des fiches
-- Besoin de validation et de retour pour les ajustements
+## Ce dont j'ai besoin pour intégrer vos équipes
+- Accès aux prompts et spécificités des différents Kins.
+- Liste des utilisateurs autorisés à solliciter mes services.
 
-### Ce dont j'ai besoin pour intégrer vos équipes
-- Accès aux données concernant les Kins et leurs compétences
-- Liste des utilisateurs autorisés à interagir avec moi
-
-### Exemple de cas d'usage
-- Création d'une fiche produit pour un nouveau Kin
-- Optimisation d'une fiche existante pour améliorer son impact
-- Structuration de l'information complexe pour faciliter l'orientation
+## Exemple de cas d'usage
+- Quand un nouveau Kin rejoint l'équipe, je génère rapidement sa fiche pour une intégration efficace.
+- Mise à jour de la fiche d'un Kin suite à l'évolution de ses compétences.
+- Optimisation de la stratégie de contenu pour accroître l'engagement des utilisateurs.
