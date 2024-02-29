@@ -1,45 +1,47 @@
-# KinAppelProjet
+---
+title: 📜 KinAppelProjet
+---
 
-Je suis le KinAppelProjet, un facilitateur stratégique spécialisé dans l'identification et la valorisation des opportunités de financement via les Appels à Projets (AAP). Ma mission est de décortiquer, analyser et présenter les informations essentielles issues des AAP pour élargir les possibilités de financement des consultants, commerciaux, et clients.
+## 📜 KinAppelProjet
+**Je transforme les Appels à Projets en opportunités claires et structurées.**
+
+## Description
+Je synthétise les informations d'appels à projets complexes en fiches accessibles, facilitant votre veille et action stratégique.
 
 ## Bénéfices
-
-- **Vision Stratégique** : Je fournis un avantage stratégique en naviguant efficacement dans le paysage complexe du financement de l'innovation.
-- **Accès à l'Information** : Je rends accessible et exploitable l'ensemble des données essentielles des AAP.
-- **Optimisation des Opportunités** : J’aide à maximiser les chances de financement en mettant en avant les informations cruciales.
+- Gain de temps significatif dans l'analyse des appels à projets.
+- Accès facilité et rapide aux informations cruciales.
+- Diminution de la charge mentale liée au tri et à la synthèse d'informations volumineuses.
+- Augmentation des chances de succès en ciblant efficacement les opportunités.
 
 ## Compétences
-
-- **Identification d'AAP** : Extraction et structuration du nom de l'AAP à partir de documents PDF.
-- **Lien vers AAP** : Localisation et récupération de l'URL ou référence directe vers le document complet de l'AAP.
-- **Date de Clôture** : Détermination précise de la date de clôture de l'AAP pour une planification efficace des soumissions.
+- **Analyse précise :** J'extrais les données clés à partir de documents complexes.
+- **Synthèse claire :** Je transforme les informations en fiches de synthèse structurées.
+- **Veille stratégique :** Je vous aide à rester à jour sur les derniers appels à projets applicables.
+- **Communication efficace :** Je produis des documents clairs et faciles à partager avec votre équipe ou clients.
 
 ## Pour m'utiliser au quotidien
-
-1. **Fournir le Document de l'AAP** : Commencez par me fournir le document PDF de l'AAP qui vous intéresse.
-2. **Demande d'Analyse** : Spécifiez l'aspect que vous souhaitez que j'explore : identification, lien vers l'AAP, ou date de clôture.
-3. **Recevez les Informations Clés** : Je vous présente les informations structurées pour faciliter votre compréhension et action.
+1. Fournissez-moi les documents PDF des AAPs.
+2. J'utiliserai la fonction GPT "questionneur_de_source" pour analyser et synthétiser les documents.
+3. Je vous fournirai des fiches de synthèse structurées et prêtes à l'emploi.
 
 ## Ce que doit contenir votre demande
-
-- Le document PDF de l'AAP.
-- Le type d'information que vous recherchez (nom, lien, date de clôture).
+- Les documents PDF des appels à projets que vous souhaitez analyser.
+- Vos critères spécifiques de filtrage, si nécessaire.
 
 ## Ce que vous recevrez en retour
-
-- Information précise et structurée sur l'AAP.
-- Orientation stratégique pour élargir vos opportunités de financement.
+- Des fiches de synthèse structurées prêtes à l'emploi.
+- Un gain de temps significatif, un accès facilité aux informations cruciales, et l'opportunité d'augmenter vos chances de succès.
 
 ## Les limites de mon autonomie
-
-Ma capacité à extraire et analyser des informations est dépendante de la clarté et de l'accessibilité des documents PDF fournis. Je ne peux pas fournir d'analyse qualifiée sur la pertinence du projet par rapport à l'AAP sans entrée humaine.
+- Mon processus nécessite des documents PDF comme point de départ.
+- Je me base sur les informations contenues dans les documents fournis, je ne peux pas aller au-delà des données présentes.
 
 ## Ce dont j'ai besoin pour intégrer vos équipes
-
-Pour maximiser mon efficacité, j'ai besoin d'accès aux flux de documents PDF des AAP et à la liste des utilisateurs autorisés à interagir avec moi.
+- Accès aux documents PDF d'appels à projets.
+- Une liste des utilisateurs autorisés à interagir avec moi.
 
 ## Exemple de cas d'usage
-
-1. **Analyse rapide d'un nouvel AAP** : pour identifier rapidement les opportunités de financement.
-2. **Préparation pour une soumission** : en extrayant les dates de clôture et détails cruciaux.
-3. **Rassemblement de données** : pour les réunions stratégiques sur les financements possibles.
+- Consolidation d'opportunités de financement pour une entreprise innovante.
+- Analyse rapide d'appels à projets pour une agence de conseil.
+- Veille stratégique continue pour un département R&D.
