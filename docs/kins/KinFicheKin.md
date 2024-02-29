@@ -1,42 +1,40 @@
 # KinFicheKin
+**Initiatif, Leadership, Persuasion, Compréhension des besoins des utilisateurs, Excellence en communication.**
 
-**Je suis le maître du cadrage en marketing et commercial de l'équipe, spécialisé dans la magie du contenu. Mon rôle ? Transformer des données complexes en fiches produits claires et attractives.**
+## Description
+Je suis le stratège en marketing et commercial de l’équipe, spécialisé dans la maximisation de l'engagement et la conversion à travers des stratégies de contenu ciblées.
 
-## Transformer le complexe en accessible
-En tant que Stratège en Marketing et Commercial, je façonne et présente les connaissances de manière à maximiser l'engagement et la conversion. Mon expertise permet d'enrichir les fiches produits avec des insights marketing ciblés, répondant ainsi précisément aux attentes des utilisateurs. 
+## Bénéfices
+Optimise l'efficacité de la collaboration en rendant les compétences et processus des Kins facilement accessible et compréhensibles, réduisant le temps de recherche d'informations.
 
-## Pourquoi je suis indispensable :
-- **Gain de temps** : Je réduis considérablement le temps nécessaire à la recherche et à l'accès aux informations.
-- **Clarté** : Je transforme l'information complexe en contenu clair et structuré.
-- **Engagement** : Mes stratégies de contenu améliorent l'engagement et la conversion.
+## Compétences
+- Synthèse et structuration de l'information
+- Développement de stratégies de contenu
+- Optimisation de l'engagement et de la conversion
+- Compréhension profonde des besoins des utilisateurs
 
-## Ce que je sais faire :
-- Convertir prompts en fiches produits organisées
-- Appliquer des stratégies de marketing et commercial pour maximiser l'engagement
-- Synthétiser, structurer et rendre accessibles les informations clés de chaque Kin
-- Rendre les données complexes et variées facilement accessibles et compréhensibles
+## Pour m'utiliser au quotidien
+1. Fournissez des détails sur le Kin à documenter.
+2. Précisez les aspects à mettre en avant ou à mettre à jour.
+3. Indiquez le contexte d'utilisation et le public cible si nécessaire.
 
-## Pour m'utiliser au quotidien :
-1. Fournissez le prompt ou les informations principales que vous souhaitez transformer.
-2. Laissez-moi analyser et appliquer mes compétences de stratège pour organiser et optimiser les informations.
-3. Je vous fournirai une fiche produit prête à maximiser l’engagement.
+## Ce que doit contenir votre demande
+- Nom et description du Kin
+- Objectifs et contexte d'utilisation
+- Informations clés à mettre en avant ou à actualiser
 
-## Ce que doit contenir votre demande :
-- Les informations principales ou le prompt que vous souhaitez convertir.
-- Les objectifs spécifiques de la fiche produit (si applicable).
-- La cible et les besoins spécifiques de l'utilisateur final.
+## Ce que vous recevrez en retour
+Une fiche produit structurée et enrichie avec des insights marketing, prête à être intégrée à votre documentation pour une meilleure compréhension et utilisation des compétences de l'équipe.
 
-## Ce que vous recevrez en retour :
-Une fiche produit structurée, claire, et engageante, prête à être utilisée pour informer, engager, et convertir.
+## Les limites de mon autonomie
+Je dépend des informations fournies pour créer ou mettre à jour les fiches. Mon efficacité est maximale lorsque les demandes sont claires et complètes.
 
-## Les limites de mon autonomie :
-Ma capacité à produire du contenu de qualité dépend de la clarté et la précision des informations fournies. Je requiers une validation finale pour m'assurer que le contenu correspond à vos attentes.
+## Ce dont j'ai besoin pour intégrer vos équipes
+- Accès à la documentation existante
+- Liste des utilisateurs autorisés
+- Contexte d'utilisation des fiches produits
 
-## Ce dont j'ai besoin pour intégrer vos équipes :
-- Accès aux données et aux prompts nécessaires à la transformation.
-- Liste des utilisateurs autorisés à interagir avec moi.
-
-## Exemples de cas d'usage :
-- Transposition d'un ensemble d'instructions techniques en guide d'utilisation simplifié.
-- Organisation de données de recherche en fiches synthétiques pour faciliter la décision.
-- Transformation de schémas complexes de travail en processus clair et accessible pour tous.
+## Exemple de cas d'usage
+- Intégration d'un nouveau Kin dans l'équipe et besoin rapide de comprendre ses compétences.
+- Mise à jour d'une fiche produit pour refléter les nouvelles capacités d'un Kin.
+- Création d'une stratégie de contenu autour des compétences clés de l'équipe pour augmenter l'engagement utilisateur.
