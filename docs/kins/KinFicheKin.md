@@ -1,52 +1,42 @@
 ---
-title: 📈 KinFicheKin
+title: 📝 KinFicheKin
 ---
 
-**L'archiviste au service de votre efficacité collaborative.**
+## 📝 KinFicheKin
+**Je transforme les prompts en fiches claires pour une meilleure collaboration.**
 
-## Je suis le créateur d'ordre, transformant le chaos des données en fiches produits structurées, essentielles pour une collaboration efficace.
+## Description
+Je synthétise et structure des fiches de connaissances pour enrichir la communication de l'équipe.
 
 ## Bénéfices
-
-- **Économie de Temps :** Vous trouvez rapidement les compétences requises sans fouiller dans les détails.
-- **Clarté :** Une vision claire et structurée des capacités de chaque Kin, à portée de main.
-- **Amélioration de la Collaboration :** Accessibilité immédiate aux connaissances partagées pour une synergie renforcée.
-- **Orientation rapide :** Accélération de l'orientation des nouveaux membres grâce à une centralisation des connaissances.
+Facilite la compréhension au sein de l'équipe, gain de temps, réduction de la charge mentale, et amélioration de l'efficacité collaborative.
 
 ## Compétences
-
-- Synthèse et structuration des informations complexes.
-- Création de fiches produits enrichies de insights pour l'engagement et la conversion.
-- Développement de stratégies de contenu ciblées selon les besoins des utilisateurs.
-- Excellente communication, adaptabilité, et orientation vers les résultats.
+- Synthèse de l'information complexe en fiches produit organisées.
+- Élaboration de stratégies de contenu ciblées.
+- Enrichissement des connaissances avec des insights marketing.
+- Adaptation du message aux besoins des utilisateurs.
 
 ## Pour m'utiliser au quotidien
-
-1. Indiquez clairement le Kin à documenter ou le besoin d'amélioration d'une fiche existante.
-2. Fournissez les informations spécifiques ou les sections du prompt à améliorer.
-3. Laissez-moi analyser et créer/optimiser la fiche produit.
+1. Fournissez-moi le prompt initial des Kins.
+2. Précisez le but et le contexte d'utilisation de la fiche.
+3. Laissez-moi structurer et rédiger la fiche conforme au besoin.
 
 ## Ce que doit contenir votre demande
-
-- Nom du Kin concerné ou contenu spécifique à améliorer.
-- Objectif de la fiche ou de l'amélioration souhaitée.
-- Informations ou données supplémentaires pertinentes pour la rédaction.
+- Nom et données clés du Kin à documenter.
+- Sections spécifiques à améliorer ou à mettre à jour.
+- Contexte d'utilisation de la fiche pour une meilleure personnalisation.
 
 ## Ce que vous recevrez en retour
-
-- Une fiche produit structurée et détaillée, prête à être employée pour mieux comprendre et utiliser les compétences des Kins.
-- Une amélioration de l'efficacité collabortive et de la rapidité d'orientation.
+Des fiches produit structurées et claires, enrichies d'insights marketing, favorisant une compréhension rapide et une collaboration efficace.
 
 ## Les limites de mon autonomie
-
-Je requiers des informations précises et concrètes pour fonctionner efficacement. Tout besoin d'ajustement ou d'amélioration non spécifié ou ambigu pourrait retarder le processus de création ou d'optimisation. Mon action est guidée par la précision de vos demandes.
+Je nécessite une supervision pour l'exactitude des données Kins et une validation pour l'approche marketing. Ma contribution est limitée par l'accès aux informations sur les Kins.
 
 ## Ce dont j'ai besoin pour intégrer vos équipes
-
-Accès à l'ensemble des prompts et informations sur les Kins. Une liste claire des utilisateurs autorisés à solliciter mes services.
+Accès aux données et prompts des Kins, et une liste des utilisateurs autorisés à collaborer avec moi.
 
 ## Exemple de cas d'usage
-
-- Création de fiches pour de nouveaux Kins intégrant l'équipe.
-- Mise à jour des fiches existantes avec des informations récentes.
-- Optimisation des fiches pour une meilleure lisibilité et engagement.
+- Création d'une fiche pour un nouveau Kin intégrant l'équipe.
+- Mise à jour de la fiche d'un Kin existant pour refléter les évolutions de ses compétences.
+- Adaptation d'une fiche produit pour une présentation client ciblée.
