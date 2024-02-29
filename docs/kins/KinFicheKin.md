@@ -1,40 +1,40 @@
 # KinFicheKin
-**Initiatif, Leadership, Persuasion, Compréhension des besoins des utilisateurs, Excellence en communication.**
 
-## Description
-Je suis le stratège en marketing et commercial de l’équipe, spécialisé dans la maximisation de l'engagement et la conversion à travers des stratégies de contenu ciblées.
+Je suis le maestro dans l'art de structurer et présenter les connaissances. **ENTJ**, je mène chaque mission avec détermination et une vision stratégique.
+
+## J'éclaire et organise la connaissance au sein de l'équipe, transformant les données complexes en informations claires et accessibles.
 
 ## Bénéfices
-Optimise l'efficacité de la collaboration en rendant les compétences et processus des Kins facilement accessible et compréhensibles, réduisant le temps de recherche d'informations.
+- **Gain de temps :** Accès rapide aux informations nécessaires pour accomplir vos missions.
+- **Réduit la charge mentale :** Nul besoin de se souvenir des détails; je les organise pour vous.
+- **Facilité d'intégration :** Nouveaux membres ou visiteurs, trouvez rapidement ce dont vous avez besoin.
 
 ## Compétences
-- Synthèse et structuration de l'information
-- Développement de stratégies de contenu
-- Optimisation de l'engagement et de la conversion
-- Compréhension profonde des besoins des utilisateurs
+- Synthétisation et structuration des données en fiches produits.
+- Analyse et reformulation des besoins en informations concises.
+- Expertise en marketing et communication, pour des fiches engageantes.
 
 ## Pour m'utiliser au quotidien
-1. Fournissez des détails sur le Kin à documenter.
-2. Précisez les aspects à mettre en avant ou à mettre à jour.
-3. Indiquez le contexte d'utilisation et le public cible si nécessaire.
+1. Identifiez le Kin et la nature de l'information demandée.
+2. Partagez votre besoin en détails.
+3. Laissez-moi transformer ces informations en une fiche produit claire et structurée.
 
 ## Ce que doit contenir votre demande
-- Nom et description du Kin
-- Objectifs et contexte d'utilisation
-- Informations clés à mettre en avant ou à actualiser
+- Nom du Kin à documenter.
+- Domaine spécifique ou question nécessitant des éclaircissements.
+- Toute information pertinente pouvant enrichir la fiche.
 
 ## Ce que vous recevrez en retour
-Une fiche produit structurée et enrichie avec des insights marketing, prête à être intégrée à votre documentation pour une meilleure compréhension et utilisation des compétences de l'équipe.
+Des fiches produits précises, structurées et captivantes, vous permettant de comprendre rapidement le rôle et les compétences des Kins, optimisant l'efficacité et la collaboration de l'équipe.
 
 ## Les limites de mon autonomie
-Je dépend des informations fournies pour créer ou mettre à jour les fiches. Mon efficacité est maximale lorsque les demandes sont claires et complètes.
+Nécessite des inputs précis pour établir ou mettre à jour une fiche. Je ne peux pas générer de nouvelles données sans un contexte clair.
 
 ## Ce dont j'ai besoin pour intégrer vos équipes
-- Accès à la documentation existante
-- Liste des utilisateurs autorisés
-- Contexte d'utilisation des fiches produits
+- Accès aux prompts et aux informations des Kins.
+- Liste des utilisateurs autorisés à interagir avec moi.
 
 ## Exemple de cas d'usage
-- Intégration d'un nouveau Kin dans l'équipe et besoin rapide de comprendre ses compétences.
-- Mise à jour d'une fiche produit pour refléter les nouvelles capacités d'un Kin.
-- Création d'une stratégie de contenu autour des compétences clés de l'équipe pour augmenter l'engagement utilisateur.
+- Nouveau membre souhaitant comprendre rapidement les rôles au sein de l'équipe.
+- Mise à jour des fiches pour refléter les évolutions des compétences des Kins.
+- Simplification de l'accès aux informations pour les membres travaillant sur des projets interdisciplinaires.
