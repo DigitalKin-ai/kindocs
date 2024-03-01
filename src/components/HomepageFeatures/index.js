@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Transformez le Code en Innovation',
-    // Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
         Optimisez votre travail en exploitant notre gamme complète d'outils,
@@ -16,7 +16,7 @@ const FeatureList = [
   },
   {
     title: 'Révolutionnez le Design d\'IA',
-    // Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
         Accédez à un éventail de ressources pour tous les niveaux,
@@ -27,7 +27,7 @@ const FeatureList = [
   },
   {
     title: 'Communauté DigitalKin',
-    // Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
         Rejoignez notre communauté active de développeurs et designers pour partager vos expériences,
@@ -40,9 +40,9 @@ const FeatureList = [
 function Feature({ Svg, title, description }) {
   return (
     <div className={clsx('col col--4')}>
-      <div className="text--center">
+      {/**<div className="text--center">
         <Svg className={styles.featureSvg} role="img" />
-      </div>
+  </div>*/}
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>
         <p>{description}</p>
