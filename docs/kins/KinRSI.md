@@ -1,4 +1,4 @@
-🔍 **KinRSI**
+🕵️ KinRSI
 
 ## Bref 
 Optimise la clarté et la précision inter-Kins.
