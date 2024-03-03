@@ -19,7 +19,7 @@ updates:
     directory: "/" # Location of package manifests
     schedule:
       interval: "weekly"
-    target-branch: "dev"
+    target-branch: "main"
     # Add reviewers
     reviewers:
       - "Linzell"
