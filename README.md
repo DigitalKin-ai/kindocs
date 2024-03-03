@@ -1,8 +1,12 @@
-# Website
+# Digitalkin Documentation project - Use Docusaurus
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+[![Docusaurus](https://img.shields.io/badge/Docusaurus-3.1.1-brightgreen)](https://docusaurus.io/)
 
-### Installation
+## Installation
+
+### Prerequisites (DEV)
+
+- [Node.js](https://nodejs.org/en/)
 
 ```
 $ yarn
@@ -39,3 +43,6 @@ $ GIT_USER=<Your GitHub username> yarn deploy
 ```
 
 If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
