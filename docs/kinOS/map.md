@@ -1,8 +1,1 @@
-[INFORMATIF - Pas de contenu]
-
-Le document est vide pour le moment (pas de baslises CONTENU trouvées dans le thread).
-
-[/INFORMATIF - Pas de contenu]
-
----
-
+![Map KinOS](https://i.ibb.co/NrF1TxP/Whats-App-Image-2024-03-25-19-00-02-588cadfd.jpg)
