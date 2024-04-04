@@ -1,0 +1,70 @@
+name: CI
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "*" ]
+
+concurrency: 
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true    
+
+env:
+  CARGO_TERM_COLOR: always
+
+jobs:
+  udeps:
+    if: github.event.pull_request.draft == false
+    name: Check unused dependencies
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node: [ 18 ]
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.DKIN_CLOUD_TOKEN }}
+          submodules: true
+      - name: Install Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ matrix.node }}
+          registry-url: "https://npm.pkg.github.com"
+      - name: Install depcheck
+        run: npm install -g depcheck
+      - name: Check for unused dependencies
+        run: depcheck --ignore-dirs=dist,coverage,build,public,docs --ignores=eslint*,prettier,postcss,autoprefixer,typescript,tailwindcss,@emotion/*,@typescript-eslint/*,@vitest/*,@components/*,@icons/*,@services/*,@classes/*,@assets/*,@utils/*,@stores/*,@layouts/*,@pages/*,@src/*
+
+
+  eslint:
+    if: github.event.pull_request.draft == false
+    name: Eslint
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node: [ 18 ]
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.DKIN_CLOUD_TOKEN }}
+          submodules: true
+      - name: Install Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ matrix.node }}
+          registry-url: "https://npm.pkg.github.com"
+      - name: Yarn Install
+        run: yarn install
+      - name: Run eslint
+        if: steps.filter.outputs.eslintrc == 'true'
+        run: npx eslint .
+      - name: Run eslint
+        if: steps.filter.outputs.eslintrc == 'false'
+        uses: sibiraj-s/action-eslint@v3
+        with:
+            eslint-args: '--ignore-path=.gitignore --quiet'
+            extensions: 'js,jsx,ts,tsx'
+            annotations: true
